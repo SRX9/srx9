@@ -14,7 +14,7 @@
 <h2> About Me </h2>
 
 
-- 🔭 I’m currently working on a Sass Product as an Associate Software Engineer
+- 🔭 I’m currently working on a SasS Product as an Associate Software Engineer
 
 - 🌱 I’m currently learning System Design and Cloud Technologies 
 
