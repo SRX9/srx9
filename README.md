@@ -10,7 +10,7 @@
 <h2> About Me </h2>
 
 
-- 🔭 Currently working on a SaaS Product as an Associate Software Engineer
+- 🔭 Currently working on a SaaS Product as a Software Engineer.
 
 - 🌱 Learning System Design, Cloud Technologies and Game Development in spare time.
 
