@@ -1,5 +1,4 @@
 <div align="center">
-<img width="100%" height = "auto" src="https://64.media.tumblr.com/7c5a3a5079467ddc06fae775043b672c/tumblr_inline_nto80ksGB91qbolbn_540.gif" alt="cover" />
 </div>
 
 <h1> Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
