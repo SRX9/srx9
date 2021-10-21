@@ -11,9 +11,9 @@
 
 - 🔭 Currently working on a SaaS Product as a Software Engineer.
 
-- 🌱 Learning System Design, Cloud Technologies and Game Development in spare time.
+- 🌱 Learning Game Development, Writing Blogs, and Streaming Games in spare time.
 
-- 👯 I’m looking to collaborate on Projects and Gaming 
+- 👯 I’m looking to collaborate on Good Project Ideas. 
 
 - 💬 Talk to me about 
       <div style="padding-left:40px;padding-top:-20px;">
