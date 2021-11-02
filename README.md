@@ -17,7 +17,7 @@
 
 - 💬 Talk to me about 
       <div style="padding-left:40px;padding-top:-20px;">
-            ⦿ JavaScript, SQL, Python, React.js, Node.js, TypeScript, C#, .Net MVC, Angular
+            ⦿ JavaScript, SQL, Python, React.js, Node.js, TypeScript, C#, Next.js, Nest.js, .Net MVC, Angular
             </br>
             ⦿ Gaming, Anime and Startup 
       </div>
