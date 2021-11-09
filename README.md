@@ -9,7 +9,7 @@
 <h2> About Me </h2>
 
 
-- 🔭 Currently working on a SaaS Product as a Software Engineer.
+- 🔭 Currently working on a SaaS Product as a Frontend Engineer.
 
 - 🌱 In spare time, Learning new technologies, Writing Blogs, and Streaming Games. 
 
