@@ -11,9 +11,11 @@
 
 - 🔭 Currently working on a SaaS Product as a Software Engineer.
 
-- 🌱 Learning Game Development, Writing Blogs, and Streaming Games in spare time.
+- 🌱 In spare time, Learning new technologies, Writing Blogs, and Streaming Games. 
 
 - 👯 I’m looking to collaborate on Good Project Ideas. 
+
+- More about me and my work: <a href="https://www.rajsavaliya.com">Raj Savaliya Developer Portfolio</a>
 
 - 💬 Talk to me about 
       <div style="padding-left:40px;padding-top:-20px;">
