@@ -36,12 +36,12 @@ function raj() {
 ### Full Stack Side Projects
 
 I love learning and practicing while creating a projects in my spare time. Here are few of them.
-> [Ayedot](https://www.rajsavaliya.com/Projects/1)
-> [Aywfan](https://www.rajsavaliya.com/Projects/2)
-> [Onwos](https://www.rajsavaliya.com/Projects/3)
-> [fireflow](https://www.rajsavaliya.com/Projects/4)
-> [Shortit](https://www.rajsavaliya.com/Projects/5)
-> [Xport](https://www.rajsavaliya.com/Projects/6)
+- [Ayedot - A Short Blogging Platform](https://www.rajsavaliya.com/Projects/1)
+- [Aywfan - Social Media Platform](https://www.rajsavaliya.com/Projects/2)
+- [Onwos - Online Media Service](https://www.rajsavaliya.com/Projects/3)
+- [fireflow - Anonymous Private Chat Rooms](https://www.rajsavaliya.com/Projects/4)
+- [Shortit - Resume Shortlisting Service](https://www.rajsavaliya.com/Projects/5)
+- [Xport - Data Transfer Webapp](https://www.rajsavaliya.com/Projects/6)
 
  ---
 
