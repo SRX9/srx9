@@ -1,6 +1,6 @@
 # [![Raj Savaliya header](https://i.ibb.co/YydVc57/Purple-Bright-Simple-Quote-Linked-In-Article-Cover-Image.gif)](https://www.rajsavaliya.com/)
 
-Hi 👋,
+# Hi 👋,
 
 ```javascript
 function raj() {
@@ -36,12 +36,12 @@ function raj() {
 ### Full Stack Side Projects
 
 I love learning and practicing while creating a projects in my spare time. Here are few of them.
-[![(Ayedot)](https://www.rajsavaliya.com/Projects/1)
-[![(Aywfan)](https://www.rajsavaliya.com/Projects/2)
-[![(Onwos)](https://www.rajsavaliya.com/Projects/3)
-[![(fireflow)](https://www.rajsavaliya.com/Projects/4)
-[![(Shortit)](https://www.rajsavaliya.com/Projects/5)
-[![(Xport)](https://www.rajsavaliya.com/Projects/6)
+> [Ayedot](https://www.rajsavaliya.com/Projects/1)
+> [Aywfan](https://www.rajsavaliya.com/Projects/2)
+> [Onwos](https://www.rajsavaliya.com/Projects/3)
+> [fireflow](https://www.rajsavaliya.com/Projects/4)
+> [Shortit](https://www.rajsavaliya.com/Projects/5)
+> [Xport](https://www.rajsavaliya.com/Projects/6)
 
  ---
 
