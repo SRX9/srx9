@@ -29,19 +29,19 @@ function raj() {
 };
 ```
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=srx9.srx9)
-![Lines of code](https://img.shields.io/badge/From%20Printing%20Hello%20World%20I%27ve%20Written%20approx.%20123k%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Printing%20Hello%20World%20I%27ve%20Written%20approx.%20183k%20lines%20of%20code-blue)
 
   ---
 
 ### Full Stack Side Projects
 
-I love learning and practicing while creating a projects in my spare time.
-[![](https://www.rajsavaliya.com/_next/image?url=%2Fayecircle.png&w=41&q=18)](https://www.rajsavaliya.com/Projects/1)
-[![](https://www.rajsavaliya.com/_next/image?url=%2Fayefanlogo.jpg&w=41&q=18)](https://www.rajsavaliya.com/Projects/2)
-[![](https://www.rajsavaliya.com/_next/image?url=%2Fonwoslogo.jpg&w=41&q=18)](https://www.rajsavaliya.com/Projects/3)
-[![](https://www.rajsavaliya.com/_next/image?url=%2Ffirelogo.jpg&w=41&q=18)](https://www.rajsavaliya.com/Projects/4)
-[![](https://www.rajsavaliya.com/_next/image?url=%2Fshortlogo.jpg&w=41&q=18)](https://www.rajsavaliya.com/Projects/5)
-[![](https://www.rajsavaliya.com/_next/image?url=%2Fxportlogo.jpg&w=41&q=18)](https://www.rajsavaliya.com/Projects/6)
+I love learning and practicing while creating a projects in my spare time. Here are few of them.
+[![](Ayedot)](https://www.rajsavaliya.com/Projects/1)
+[![](Aywfan)](https://www.rajsavaliya.com/Projects/2)
+[![](Onwos)](https://www.rajsavaliya.com/Projects/3)
+[![](fireflow)](https://www.rajsavaliya.com/Projects/4)
+[![](Shortit)](https://www.rajsavaliya.com/Projects/5)
+[![](Xport)](https://www.rajsavaliya.com/Projects/6)
 
  ---
 
