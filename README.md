@@ -1,47 +1,69 @@
-<div align="center">
-</div>
+# [![Raj Savaliya header](https://i.ibb.co/YydVc57/Purple-Bright-Simple-Quote-Linked-In-Article-Cover-Image.gif)](https://www.rajsavaliya.com/)
 
-<h1> Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
+<p>
+  <a href="https://waylonwalker.com/latest-story.png"><img width="150" align='right' src="https://waylonwalker.com/latest-story.png"></a>
+</p>
 
+
+Hi 👋,
+
+```javascript
+function raj() {
+    return {
+      pronouns: "He" | "Him",
+      code: ["Javascript", "TypeScript", "Python", "C#", "Java"],
+      technologies: {
+        frontEnd: {
+            js: ["React", "Redux", "Angular", "jQuery"],
+            css: ["Tailwind", "Bootstrap", "SASS", "Bulma", "Ant Design"]
+        },
+        backEnd: {
+            js: ["Node", "Express", "Next"],
+            c#: [".NET MVC"],
+            py: ["Django"],
+        },
+        devOps: ["AWS", "Azure App Service", "Docker🐳"],
+        databases: ["SQL Server", "PostgreSQL", "MongoDB", "MySql", "sqlite"],
+        misc: ["Postman", "GitHub", "BitBucket", "Socket.IO", "jest"]
+      },
+      askMeAbout: ["software dev", "tech", "startup", "gaming", "anime"],
+      architecture: ["MVC", "Microservices Architecture", "Single page applications"],
+      currentFocus: "JS and Cloud Native Technologies",
+      funFact: "Time, Oppurtunities and JavaScript, wait for none."
+    }
+};
+```
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=srx9.srx9)
+![Lines of code](https://img.shields.io/badge/From%20Printing%20Hello%20World%20I%27ve%20Written%20approx.%20123k%20lines%20of%20code-blue)
 
-<h2> About Me </h2>
+  ---
+ 
+ <p>
+  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+</p>
+ 
+### Full Stack Side Projects
 
+I love learning and practicing while creating a projects in my spare time.
+[![](https://www.rajsavaliya.com/_next/image?url=%2Fayecircle.png&w=48&q=75)](https://www.rajsavaliya.com/Projects/1)
+[![](https://www.rajsavaliya.com/_next/image?url=%2Fayefanlogo.jpg&w=96&q=75)](https://www.rajsavaliya.com/Projects/2)
+[![](https://www.rajsavaliya.com/_next/image?url=%2Fonwoslogo.jpg&w=96&q=75)](https://www.rajsavaliya.com/Projects/3)
+[![](https://www.rajsavaliya.com/_next/image?url=%2Ffirelogo.jpg&w=48&q=75)](https://www.rajsavaliya.com/Projects/4)
+[![](https://www.rajsavaliya.com/_next/image?url=%2Fshortlogo.jpg&w=48&q=75)](https://www.rajsavaliya.com/Projects/5)
+[![](https://www.rajsavaliya.com/_next/image?url=%2Fxportlogo.jpg&w=48&q=75)](https://www.rajsavaliya.com/Projects/6)
 
-- 🔭 Currently working as a Software Development Engineer.
+ ---
 
-- 🌱 In spare time, Learning new technologies, Writing Blogs, and Streaming Games. 
+<p>
+  <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
+</p>
 
-- 👯 I’m looking to collaborate on Good Project Ideas. 
+### Blogging 🌱
 
-- More about me and my work: <a href="https://www.rajsavaliya.com">Raj Savaliya Developer Portfolio</a>
+I write regular blog posts, most of which you will find on my personal website [rajsavaliya.com](https://www.rajsavaliya.com).
+I write about things I am familiar with, important or interesting things that i came to know about, and things that I am learning.
 
-- 💬 Talk to me about 
-      <div style="padding-left:40px;padding-top:-20px;">
-            ⦿ JavaScript, SQL, Python, React.js, Node.js, TypeScript, C#, Next.js, Nest.js, .Net MVC, Angular
-            </br>
-            ⦿ Gaming, Anime and Startup 
-      </div>
-
-
-
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px> </h2>
-<a href= https://github.com/srx9?tab=repositories&q=&type=&language=python&sort= style="margin-right:18px;"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/srx9?tab=repositories&q=&type=&language=reactjs&sort=  style="padding-right:8px;"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/srx9?tab=repositories&q=&type=&language=javascript&sort=  style="padding-right:8px;"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/srx9?tab=repositories&q=&type=&language=nodejs&sort=  style="padding-right:8px;"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
-<a href= https://github.com/srx9?tab=repositories&q=&type=&language=csharp&sort=  style="padding-right:8px;"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
-<a href= https://github.com/srx9?tab=repositories&q=&type=&language=mysql&sort=  style="padding-right:8px;"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://github.com/srx9?tab=repositories&q=&type=&language=postgresql&sort=  style="padding-right:8px;"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
-<a href= https://github.com/srx9?tab=repositories&q=&type=&language=angularjs&sort=  style="padding-right:8px;"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg'> </a>
-<a href= https://github.com/srx9?tab=repositories&q=&type=&language=typescript&sort=  style="padding-right:8px;"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
-<a href= https://github.com/srx9?tab=repositories&q=&type=&language=jest&sort=  style="padding-right:8px;"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jest.svg'> </a>
-<a href= https://github.com/srx9?tab=repositories&q=&type=&language=aws&sort=  style="padding-right:8px;"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>
-<a href= https://github.com/srx9?tab=repositories&q=&type=&language=azure&sort=  style="padding-right:8px;"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/azure.svg'> </a>
-<a href= https://github.com/srx9?tab=repositories&q=&type=&language=dotnet&sort=  style="padding-right:8px;"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dotnet.svg'> </a>
-<a href= https://github.com/srx9?tab=repositories&q=&type=&language=java&sort=  style="padding-right:8px;"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
-<a href= https://github.com/srx9?tab=repositories&q=&type=&language=mongodb&sort=  style="padding-right:8px;"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
+---
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> </h2>
