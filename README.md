@@ -35,9 +35,9 @@ function raj() {
 
 ### Full Stack Side Projects
 
-I love learning and practicing while creating a projects in my spare time. Here are few of them.
+I love learning and practicing while creating projects in my spare time. Here are few of them.
 - [Ayedot - A Short Blogging Platform](https://www.rajsavaliya.com/Projects/1)
-- [Aywfan - Social Media Platform](https://www.rajsavaliya.com/Projects/2)
+- [Ayefan - Social Media Platform](https://www.rajsavaliya.com/Projects/2)
 - [Onwos - Online Media Service](https://www.rajsavaliya.com/Projects/3)
 - [fireflow - Anonymous Private Chat Rooms](https://www.rajsavaliya.com/Projects/4)
 - [Shortit - Resume Shortlisting Service](https://www.rajsavaliya.com/Projects/5)
