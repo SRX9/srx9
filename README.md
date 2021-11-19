@@ -29,7 +29,6 @@ function raj() {
 };
 ```
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=srx9.srx9)
-![Lines of code](https://img.shields.io/badge/From%20Printing%20Hello%20World%20to%20Writting%20approx.%20183k%20lines%20of%20code%20till%20now-black)
 
   ---
 
