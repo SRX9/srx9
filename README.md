@@ -24,7 +24,7 @@ function raj() {
       askMeAbout: ["software dev", "tech", "startup", "gaming", "anime"],
       architecture: ["MVC", "Microservices Architecture", "Single page applications"],
       currentFocus: "JS and Cloud Native Technologies",
-      funFact: "Time, Oppurtunities and JavaScript, wait for none."
+      funFact: "Time, Oppurtunities and JavaScript, waits for none."
     }
 };
 ```
