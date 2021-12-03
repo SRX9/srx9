@@ -2,32 +2,9 @@
 
 # Hi 👋,
 
-```javascript
-function raj() {
-    return {
-      pronouns: "He" | "Him",
-      code: ["Javascript", "TypeScript", "Python", "C#", "Java"],
-      technologies: {
-        frontEnd: {
-            js: ["React", "Redux", "Angular", "jQuery"],
-            css: ["Tailwind", "Bootstrap", "SASS", "Bulma", "Ant Design"]
-        },
-        backEnd: {
-            js: ["Node", "Express", "Next"],
-            c#: [".NET MVC"],
-            py: ["Django"],
-        },
-        devOps: ["AWS", "Azure App Service", "Docker🐳"],
-        databases: ["SQL Server", "PostgreSQL", "MongoDB", "MySql", "sqlite"],
-        misc: ["Postman", "GitHub", "BitBucket", "Socket.IO", "jest"]
-      },
-      askMeAbout: ["software dev", "tech", "startup", "gaming", "anime"],
-      architecture: ["MVC", "Microservices Architecture", "Single page applications"],
-      currentFocus: "JS and Cloud Native Technologies",
-      funFact: "Time, Oppurtunities and JavaScript, waits for none."
-    }
-};
-```
+<img src="jsinfo.png" width="100%" alt="Raj Savaliya"/>
+
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=srx9.srx9)
 
   ---
