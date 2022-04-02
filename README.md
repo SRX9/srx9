@@ -1,4 +1,3 @@
-# [![Raj Savaliya header](https://i.ibb.co/YydVc57/Purple-Bright-Simple-Quote-Linked-In-Article-Cover-Image.gif)](https://www.rajsavaliya.com/)
 
 # Hi 👋,
 
