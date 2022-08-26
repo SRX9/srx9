@@ -1,6 +1,7 @@
 
 # Hi 👋,
 
+<img src="carbon.png" width="100%" alt="Raj Savaliya"/>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=srx9.srx9)
 
