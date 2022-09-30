@@ -1,7 +1,8 @@
 
 # Hi 👋,
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srx9" alt="srx9" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srx9&margin-w=15
+" alt="srx9" /></a> </p>
 
 <img src="carbon.png" width="100%" alt="Raj Savaliya"/>
 
