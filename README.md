@@ -1,7 +1,7 @@
 
 # Hi 👋,
 
-<img src="https://github-profile-trophy.vercel.app/?username=srx9&column=3&margin-w=15&margin-h=15" width="100%" alt="Raj Savaliya"/>
+<img src="https://github-profile-trophy.vercel.app/?username=srx9&column=6&margin-w=15&margin-h=15" width="100%" alt="Raj Savaliya"/>
 
 <img src="carbon.png" width="100%" alt="Raj Savaliya"/>
 
