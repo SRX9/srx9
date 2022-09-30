@@ -1,6 +1,8 @@
 
 # Hi 👋,
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagoponte&label=Profile%20views&color=0e75b6&style=flat" alt="thiagoponte" /> </p>
+
 <img src="carbon.png" width="100%" alt="Raj Savaliya"/>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=srx9.srx9)
