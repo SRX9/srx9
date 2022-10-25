@@ -3,7 +3,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=srx9&column=7&margin-w=15&margin-h=15&theme=onedark&no-bg=true&no-frame=true" width="100%" alt="Raj Savaliya"/>
 
-<img src="carbon.png" width="100%" alt="Raj Savaliya"/>
+<img src="bio.png" width="100%" alt="Raj Savaliya"/>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=srx9.srx9)
 
