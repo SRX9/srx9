@@ -34,9 +34,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=srx9.srx9)
 
 ---
-![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=srx9&count_private=true)
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srx9&layout=compact)](https://github.com/srx9/github-readme-stats)
+| <a href="https://github.com/srx9/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=srx9&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Raj's github stats" /></a> | <a href="https://github.com/srx9/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srx9&layout=compact&theme=buefy&hide_border=true" /></a> |
 ---
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> </h2>
