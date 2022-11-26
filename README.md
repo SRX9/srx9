@@ -37,8 +37,6 @@
 ![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=srx9&count_private=true)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srx9&layout=compact)](https://github.com/srx9/github-readme-stats)
-
-[![Raj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=srx9&layout=compact)](https://github.com/srx9/github-readme-stats)
 ---
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> </h2>
