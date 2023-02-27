@@ -3,7 +3,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=srx9&column=7&margin-w=15&margin-h=15&theme=onedark&no-bg=true&no-frame=true" width="100%" alt="Raj Savaliya"/>
 
-~~~
+~~~ js
   const raj = () => ({
     language: ["Javascript", "TypeScript", "SQL", "C#", "Python"],
     technologies: {
