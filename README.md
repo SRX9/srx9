@@ -5,7 +5,7 @@
 
 ~~~ js
   const raj = () => ({
-    language: ["Javascript", "TypeScript", "SQL", "C#", "Python"],
+    language: ["Javascript", "TypeScript", "SQL", "Python"],
     technologies: {
       frontEnd: {
         core: ["JavaScript", "SE0", "HTML5", "CSS3"],
