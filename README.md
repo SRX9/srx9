@@ -40,14 +40,10 @@
 </p>
 ---
 
-**Weekly code report**
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-  
-
 ---
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> </h2>
 <a href = 'https://www.linkedin.com/in/savaliya-raj'  style="padding-right:8px;"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/srx9'  style="padding-right:8px;"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://twitter.com/s_r_x_9'  style="padding-right:8px;"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 
 
