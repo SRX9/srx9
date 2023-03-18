@@ -38,7 +38,7 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=SRX9&show_icons=true&theme=bear" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=SRX9&theme=dark&hide_border=true" width = 400>
 </p>
----
+
 
 ---
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> </h2>
