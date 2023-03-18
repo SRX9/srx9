@@ -34,12 +34,18 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=srx9.srx9)
 
 ---
-
-| <a href="https://github.com/srx9/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=srx9&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Raj's github stats" /></a> | <a href="https://github.com/srx9/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srx9&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=SRX9&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=SRX9&theme=dark&hide_border=true" width = 400>
+</p>
 ---
 
+**Weekly code report**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+  
+
+---
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> </h2>
 <a href = 'https://www.linkedin.com/in/savaliya-raj'  style="padding-right:8px;"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/srx9'  style="padding-right:8px;"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
