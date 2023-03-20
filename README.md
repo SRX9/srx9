@@ -1,7 +1,7 @@
 
 # Hi 👋,
 
-<img src="https://i.postimg.cc/6qK5ZJ5P/Untitled-design-12.png" width="100%" alt="Raj Savaliya"/>
+[![Untitled-design-12.png](https://i.postimg.cc/6qK5ZJ5P/Untitled-design-12.png)](https://postimg.cc/vgPsRKn7)
 
 ~~~ js
   const raj = () => ({
