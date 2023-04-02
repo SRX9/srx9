@@ -14,19 +14,13 @@
       },
       backEnd: {
         core: ["REST APIs", "Serverless", "CI/CD"],
-        technologies: ["Node", "Express", "Next Edge", ".NET MVC"],
+        technologies: ["Node", "Express", "Edge Functions"],
       },
       devops: ["AWS", "Cloudflare", "Azure App Service", "Vercel"],
-      databases: ["PostgreSQL", "SQL Server", "MongoDB"],
-      misc: ["Postman", "GitHub", "BitBucket", "Socket", "jest"],
-      architecture: [
-        "Microservice Architecture",
-        "Single Page Applications (SPA)",
-        "MVC",
-      ],
+      databases: ["PostgreSQL", "Redis", "MongoDB", "Cassandra"],
+      misc: ["Postman", "GitHub", "BitBucket", "Socket"],
       askMeAbout: ["software dev", "tech", "startup", "gaming", "anime"],
-      currentFocus: "Exploring and Getting Deep into JS Universe and Cloud Technologies",
-      funFact: "Time, Opportunities and JavaScript, waits for none.",
+      currentFocus: "Live a peaceful life",
     },
   });
 ~~~
