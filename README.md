@@ -1,8 +1,6 @@
 
 # Hi 👋,
 
-[![Untitled-design-12.png](https://i.postimg.cc/6qK5ZJ5P/Untitled-design-12.png)](https://postimg.cc/vgPsRKn7)
-
 ~~~ js
   const raj = () => ({
     language: ["Javascript", "TypeScript", "SQL", "Python"],
