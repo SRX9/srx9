@@ -1,6 +1,8 @@
 
 # Hi 👋,
 
+<input type="text" />
+
 ~~~ js
   const raj = () => ({
     language: ["Javascript", "TypeScript", "SQL", "Python"],
