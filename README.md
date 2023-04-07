@@ -11,7 +11,7 @@
         css: ["SASS", "Tailwind", "Bootstrap"],
       },
       backEnd: {
-        core: ["REST APIs", "Serverless", "CI/CD"],
+        core: ["REST APIs", "Serverless"],
         technologies: ["Node", "Express", "Edge Functions"],
       },
       devops: ["AWS", "Cloudflare", "Azure App Service", "Vercel"],
