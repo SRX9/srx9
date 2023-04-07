@@ -6,9 +6,9 @@
     language: ["Javascript", "TypeScript", "SQL", "Python"],
     technologies: {
       frontEnd: {
-        core: ["JavaScript", "SE0", "HTML5", "CSS3"],
+        core: ["JavaScript", "HTML5", "CSS3", "SE0"],
         js: ["React", "Next.js", "Redux"],
-        css: ["SASS", "Tailwind", "Bootstrap"],
+        css: ["SASS", "Tailwind", "Bootstrap", "Styled Components"],
       },
       backEnd: {
         core: ["REST APIs", "Serverless"],
