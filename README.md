@@ -1,6 +1,8 @@
 
 # Hi 👋,
 
+<img src="Untitled design (13).png" />
+
 ~~~ js
   const raj = () => ({
     language: ["Javascript", "TypeScript", "SQL", "Python"],
