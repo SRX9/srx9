@@ -1,5 +1,5 @@
 
-# Hi 👋,
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00A448&width=435&lines=Hi+there!;I+am+a+Software+Development+Engineer%2C;+or+atleast+that's+what+people+think;I+use+JavaScript%2FTypeScript+For+Everything;Loves+Building+%22Completed%22+Side+Projects)](https://git.io/typing-svg)
 
 <img src="Untitled design (14).png" />
 
