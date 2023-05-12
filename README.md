@@ -22,7 +22,6 @@
       misc: ["Postman", "GitHub", "BitBucket", "Socket"],
     },
     askMeAbout: ["software dev", "tech", "startup", "gaming", "anime"],
-    currentFocus: "Live a peaceful life",
   });
 ~~~
 
