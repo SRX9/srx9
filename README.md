@@ -1,8 +1,6 @@
 
 ---
 
-<img src="Untitled design (14).png" />
-
 ~~~ js
   const raj = () => ({
     language: ["Javascript", "TypeScript", "SQL", "Python"],
