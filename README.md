@@ -24,8 +24,6 @@
   });
 ~~~
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=srx9.srx9)
-
 ---
 <p align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=SRX9&theme=dark&hide_border=true" width = "100%">
