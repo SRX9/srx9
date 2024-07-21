@@ -1,3 +1,4 @@
+~~~js
 const raj = () => ({
   role: "Software Development Engineer 2 - Frontend & Backend",
   expertise: "JavaScript (TS) Ecosystem (Web/FullStack)",
@@ -28,3 +29,4 @@ const raj = () => ({
     "Ayedot.com"
   ]
 });
+~~~
