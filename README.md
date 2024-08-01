@@ -26,7 +26,8 @@ const raj = () => ({
   sideProjects: [
     "Ayesoul.com",
     "Ayehigh.com",
-    "Ayedot.com"
+    "Ayedot.com",
+    "SubtitlesInReal.Life"
   ]
 });
 ~~~
