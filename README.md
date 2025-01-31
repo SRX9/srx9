@@ -28,8 +28,7 @@ const raj = () => ({
     "Ayehigh.com",
     "AyeCreate.ai",
     "Ninetails-stack.dev",
-    "Ayedot.com",
-    "SubtitlesInReal.Life"
+    "Ayedot.com"
   ]
 });
 ~~~
