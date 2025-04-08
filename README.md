@@ -1,12 +1,11 @@
 ~~~js
 const raj = () => ({
   role: "Software Development Engineer 2 - Frontend & Backend",
-  expertise: "JavaScript (TS) Ecosystem (Web/FullStack)",
   specialties: [
-    "Generative AI powered solutions & workflows",
-    "Effective Prompt engineering"
+    "Frontend Heavy Fullstack",
+    "Generative AI powered solutions, agents & workflows"
   ],
-  languages: ["Javascript", "TypeScript", "SQL", "Python", "C", "English"],
+  languages: ["Javascript", "TypeScript", "SQL", "Go", "Python", "English"],
   technologies: {
     frontEnd: {
       core: ["JavaScript", "HTML5", "CSS3", "SEO", "Accessibility"],
@@ -14,8 +13,8 @@ const raj = () => ({
       css: ["SASS", "Tailwind", "Bootstrap", "Styled Components", "CSS-in-JS", "Design System"],
     },
     backEnd: {
-      core: ["REST APIs", "Serverless", "Web Sockets"],
-      technologies: ["Node", "Express", "Edge Functions", ".NET"],
+      core: ["REST APIs", "Serverless" ,"Web Sockets"],
+      technologies: ["Node", "Express",  "GraphQL", "Edge Functions", ".NET"],
       databases: ["PostgreSQL", "Redis", "MongoDB", "Cassandra", "SQLite"],
       devops: ["AWS", "Cloudflare", "Azure App Service", "Vercel"],
     },
