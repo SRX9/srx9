@@ -21,7 +21,7 @@ const raj = () => ({
     },
     misc: ["Postman", "GitHub", "BitBucket", "VSCode"],
   },
-  askMeAbout: ["software dev", "tech", "startup", "indie saas" ,"gaming", "anime"],
+  askMeAbout: ["software dev", "tech", "genai", "startup", "indie saas" ,"gaming", "anime"],
   portfolio: "rajsavaliya.com",
   sideProjects: [
     "Ayesoul.com",
