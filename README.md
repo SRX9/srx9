@@ -25,10 +25,10 @@ const raj = () => ({
   portfolio: "rajsavaliya.com",
   sideProjects: [
     "Ayesoul.com",
+    "ChaiTea.Chat",
+    "TheWatcher.Online",
     "AyeCreate.ai",
-    "SoulSpace.ayesoul.com",
     "Ayehigh.com",
-    "Ninetails-stack.dev",
   ]
 });
 ~~~
