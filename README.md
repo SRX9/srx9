@@ -19,7 +19,6 @@ const raj = () => ({
       databases: ["PostgreSQL", "Redis", "MongoDB", "Cassandra", "SQLite"],
       devops: ["AWS", "Cloudflare", "Azure App Service", "Vercel"],
     },
-    misc: ["Postman", "GitHub", "BitBucket", "VSCode"],
   },
   askMeAbout: ["software dev", "tech", "genai", "startup", "indie saas" ,"gaming", "anime"],
   portfolio: "rajsavaliya.com",
