@@ -24,9 +24,9 @@ const raj = () => ({
   askMeAbout: ["software dev", "tech", "genai", "startup", "indie saas" ,"gaming", "anime"],
   portfolio: "rajsavaliya.com",
   sideProjects: [
+    "AyeWatch.ai",
     "Ayesoul.com",
     "ChaiTea.Chat",
-    "TheWatcher.Online",
     "AyeCreate.ai",
     "Ayehigh.com",
   ]
