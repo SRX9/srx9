@@ -3,7 +3,7 @@ const raj = () => ({
   role: "Software Development Engineer II",
   specialties: [
     "Frontend Heavy Fullstack",
-    "Generative AI powered solutions, agents & workflows",
+    "Applied AI",
     "Product Design & Engineering"
   ],
   languages: ["Javascript", "TypeScript", "SQL", "Go", "Python", "English"],
