@@ -1,6 +1,6 @@
 ~~~js
 const raj = () => ({
-  role: "Software Development Engineer II",
+  role: "Software Engineer",
   specialties: [
     "Frontend Heavy Fullstack",
     "Applied AI",
