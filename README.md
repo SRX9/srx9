@@ -3,9 +3,9 @@ const raj = () => ({
   portfolio: "rajsavaliya.com",
   sideProjects: [
     "AyeWatch.ai",
+    "AyeCreate.ai",
     "Ayesoul.com",
     "ChaiTea.Chat",
-    "AyeCreate.ai",
     "Ayehigh.com",
   ],
   specialties: [
