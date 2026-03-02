@@ -10,7 +10,7 @@ const raj = () => ({
   ],
   specialties: [
     "Frontend Heavy Fullstack",
-    "Applied AI",
+    "Applied AI / Agentic AI",
     "Product Design & Engineering"
   ],
 });
