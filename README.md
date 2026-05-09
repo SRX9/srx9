@@ -1,13 +1,14 @@
 ~~~js
 const raj = () => ({
   portfolio: "rajsavaliya.com",
-  sideProjects: [
-    "AyeWatch.ai",
-    "AyeCreate.ai",
-    "Ayesoul.com",
-    "ChaiTea.Chat",
-    "Ayehigh.com",
-  ],
+  sideProjects: {
+    "AyeWatch.ai": "Personal AI Journalist/Internet Monitor (The Push Internet)",
+    "Ayereal.com": "Credits/Options based Prediction Market",
+    "AyeCreate.ai": "AI Content Creation Studio (Minimal alternative to Midjourney)",
+    "Ayesoul.com": "AI Search Engine",
+    "ChaiTea.Chat": "Minimalist All in one AI Chat",
+    "Ayehigh.com": "GenAI Resume Solutions Suite",
+  },
   specialties: [
     "Frontend Heavy Fullstack",
     "Applied AI / Agentic AI",
