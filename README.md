@@ -10,9 +10,10 @@ const raj = () => ({
     "ChaiTea.Chat": "Minimalist All in one AI Chat",
     "Ayehigh.com": "GenAI Resume Solutions Suite",
   },
-  specialties: [
+  experience: [
     "Frontend Heavy Fullstack",
-    "Applied AI / Agentic AI",
+    "Applied AI / Agentic AI Engineering",
+    "Forward Deployed Engineer",
     "Product Design & Engineering"
   ],
 });
