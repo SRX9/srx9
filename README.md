@@ -1,20 +1,29 @@
 ~~~js
 const raj = () => ({
   portfolio: "rajsavaliya.com",
-  sideProjects: {
-    "AyeWatch.ai": "Personal AI Journalist/Internet Monitor (The Push Internet)",
-    "Ayereal.com": "Credits/Options based Prediction Market",
-    "AyeCreate.ai": "AI Content Creation Studio (Minimalist alternative to Midjourney)",
-    "Logtile": "AI Changelogs Generator from PR/Commits",
-    "Ayesoul.com": "AI Search Engine",
-    "ChaiTea.Chat": "Minimalist All in one AI Chat",
-    "Ayehigh.com": "GenAI Resume Solutions Suite",
+  current: "Software Engineering @Deel",
+  projects: {
+    active: {
+      "AyeWatch.ai": "AI Internet Monitor/Journalist (The Push Internet)",
+      "Ayereal.com": "Credits/Options based Prediction Market",
+    },
+    got_acquired: {
+      "AyeCreate.ai":
+        "AI Content Creation Studio (Minimalist alternative to Midjourney)",
+      "Ayehigh.com": "GenAI Resume Solutions Suite",
+      "ChaiTea.Chat": "Minimalist All in one AI Chat",
+    },
+    archived: {
+      "Logtile": "AI Changelogs Generator from PR/Commits",
+      "Ayesoul.com": "AI Search Engine",
+      "Ninetails Stack": "Mini SaaS starter Kit",
+    },
   },
   experience: [
     "Frontend Heavy Fullstack",
     "Applied AI / Agentic AI Engineering",
     "Forward Deployed Engineer",
-    "Product Design & Engineering"
+    "Product Design & Engineering",
   ],
 });
 ~~~
