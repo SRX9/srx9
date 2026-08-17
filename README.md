@@ -4,8 +4,8 @@ const raj = () => ({
   current: "Software Engineering @Deel",
   projects: {
     active: {
-      "AyeWatch.ai": "AI Internet Monitor/Journalist (The Push Internet)",
-      "Ayereal.com": "Credits/Options based Prediction Market",
+      "AyeWatch.ai": "AI Internet Monitor (Sematic Monitoring of topics, pages or anything else)",
+      "UsageAtlas.com": "Track all your AI coding usage and limits. One picture.",
     },
     got_acquired: {
       "AyeCreate.ai":
