@@ -14,6 +14,7 @@ const raj = () => ({
       "ChaiTea.Chat": "Minimalist All in one AI Chat",
     },
     archived: {
+      "Ayereal.com": "Credits/Options based Prediction Market",
       "Logtile": "AI Changelogs Generator from PR/Commits",
       "Ayesoul.com": "AI Search Engine",
       "Ninetails Stack": "Mini SaaS starter Kit",
