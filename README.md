@@ -32,7 +32,7 @@ const raj = () => ({
 [![AI Coding Activity on UsageAtlas](https://usageatlas.com/api/cards/rajsavaliya/heatmap.svg?theme=dark&color=green)](https://usageatlas.com/@rajsavaliya)
 
 [![AI Coding Token Usage on UsageAtlas](https://usageatlas.com/api/cards/rajsavaliya/tokens.svg?period=all&theme=dark&color=mono)](https://usageatlas.com/@rajsavaliya)
-[![Estimated AI Coding Cost on UsageAtlas](https://usageatlas.com/api/cards/rajsavaliya/cost.svg?period=all&theme=dark&color=mono)](https://usageatlas.com/@rajsavaliya)
 
 [![Top AI Models Usage on UsageAtlas](https://usageatlas.com/api/cards/rajsavaliya/models.svg?period=all&theme=dark&color=purple&layout=pie)](https://usageatlas.com/@rajsavaliya)
+
 [![Top AI Tools Usage on UsageAtlas](https://usageatlas.com/api/cards/rajsavaliya/providers.svg?period=all&theme=dark&color=blue&layout=pie)](https://usageatlas.com/@rajsavaliya)
