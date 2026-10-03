@@ -28,4 +28,4 @@ const raj = () => ({
   ],
 });
 ~~~
-[![AI Coding Activity on UsageAtlas](https://usageatlas.com/api/cards/rajsavaliya/heatmap.svg?theme=dark)](https://usageatlas.com/@rajsavaliya)
+[![AI Coding Activity on UsageAtlas](https://usageatlas.com/api/cards/rajsavaliya/heatmap.svg?theme=light&color=green)](https://usageatlas.com/@rajsavaliya)
